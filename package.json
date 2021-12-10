@@ -1,0 +1,20 @@
+{
+  "name": "fpfx",
+  "version": "1.0.0",
+  "description": "1",
+  "main": "fpfx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inverseplay/fpfx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inverseplay/fpfx/issues"
+  },
+  "homepage": "https://github.com/inverseplay/fpfx#readme"
+}
