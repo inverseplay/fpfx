@@ -1,4 +1,5 @@
-# FxJS - Functional Extensions for Javascript
+
+# fpfx 
 
 ![npm](https://img.shields.io/npm/v/fpfx)
 ![npm bundle size](https://img.shields.io/bundlephobia/minzip/fpfx)
