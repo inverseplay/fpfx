@@ -11,8 +11,8 @@
     "url": "git+https://github.com/inverseplay/fpfx.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "inverseplay",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/inverseplay/fpfx/issues"
   },
